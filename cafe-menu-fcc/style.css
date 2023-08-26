@@ -1,0 +1,103 @@
+body {
+  background-image: url(https://t4.ftcdn.net/jpg/02/75/92/41/360_F_275924184_GP4ACV80EK8NokxlFaUB2qykpXKrroqx.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.established {
+  font-style: italic;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  color: #cf561d;
+}
+
+.menu {
+  width: 80%;
+  background-color: #d9b277;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px
+}
+
+hr {
+  height: 2px;
+  background-color: #46bfca;
+  border-color: #46bfca;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h1,
+h2 {
+  font-family: 'Gluten', cursive;
+  color: #d2531c
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.flavor,
+.drink {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+/* FOOTER */
+
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: #46bfca;
+}
+
+a:active {
+  color: #46bfca;
+}
